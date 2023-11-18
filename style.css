@@ -98,7 +98,6 @@ input::placeholder {
 }
 
 .timer-ended{
-    background-color: #F0F757;
-    color: #34344A;
+    color:#F0F757;
     margin: auto;
 }
